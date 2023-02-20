@@ -1,4 +1,4 @@
-// File: hw10demo.cc
+// File: demo.cc
 
 #include "acctlist.h"
 #include "optfactory.h"
