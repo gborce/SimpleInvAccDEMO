@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW9, Account List Class
+ *  Bruce Gjorgjievski
  *  file: acctlist.cc
- *  Modified:  Nov 26, 2002
  *  Desc: Implementation for the account list class
  *
  **********************************************************************/

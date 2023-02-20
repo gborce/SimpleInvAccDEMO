@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW8, Enhanced Account Class
+ *  Bruce Gjorgjievski
  *  file: account.h
- *  Modified:  Nov 14, 2002
  *  Desc: Definitions for the enhanced account class
  *
  **********************************************************************/
