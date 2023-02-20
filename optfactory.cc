@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW10 Putting it all together
+ *  Borce Gjorgjievski
  *  file: optfactory.cc
- *  Modified: Dec 4, 2002
  *  Desc: Creates different options on request
  *
  **********************************************************************/
