@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, Putting it all together
+ *  Bruce Gjorgjievski
  *  file: option.cc
- *  Modified: Dec 4, 2002
  *  Desc: Option classes
  *
  **********************************************************************/
