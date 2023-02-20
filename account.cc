@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW10, Enhanced Account Class
+ *  Bruce Gjorgjievski
  *  file: account.cc
- *  Modified:  Dec 4, 2002
  *  Desc: Implementation for the enhanced account class
  *
  **********************************************************************/
