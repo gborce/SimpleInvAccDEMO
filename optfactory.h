@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, Putting it all together
+ *  Bruce Gjorgjievski, Putting it all together
  *  file: optfactory.h
- *  Modified: Dec 4, 2002
  *  Desc: Creates different options on request
  *
  **********************************************************************/
