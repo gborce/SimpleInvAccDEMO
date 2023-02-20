@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW10, Investment List & InvFactory Class
+ *  Borce Gjorgjievski
  *  file: invlist.h
- *  Modified:  Dec 4, 2002
  *  Desc: Definitions for the investment & InvFactory class
  *
  **********************************************************************/
