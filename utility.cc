@@ -1,16 +1,6 @@
 // utility.cc
 // a collection of general purpose functions
-// Date of change     Changes
-// ------------------------------------------------------------------  
-// 02/02/2002         added file opening functions
-// 04/09/2002         fixed flaky intToString() function
-// 08/26/2002         added lower() and raise() functions to repair
-//                    uppercaseString() and lowercaseString()
-//                    which had suddenly stopped working.
-// 09/05/2002         added dashline function
-// 09/20/2002         added  cin >> ws    before each getline()
-// 11/11/2003         added a clear() call to openInputFile()
-// 11/22/2003         added another clear() call to openInputFile()
+
 
 #include <math.h>
 #include <limits.h>
