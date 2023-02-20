@@ -1,8 +1,6 @@
 // utility.h
 // a collection of general purpose functions
-// Date of last modification:  09/6/2002
-// Added dashline() function
-// Improved lowercaseString() and uppercaseString() functions.
+
 
 #ifndef _UTILITY_H_SEEN_
 #define _UTILITY_H_SEEN_
