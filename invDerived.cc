@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW10, Stock, Bond, MMsavings classes
+ *  Borce Gjorgjievski
  *  file: invDerived.cc
- *  Modified: Dec 4, 2002
  *  Desc: Implementation for the Stock, Bond, MMsavings classes
  *
  **********************************************************************/
