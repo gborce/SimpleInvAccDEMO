@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW10, Account List Class
+ *  Bruce Gjorgjievski
  *  file: acctlist.h
- *  Modified:  Dec 4, 2002
  *  Desc: Definitions for the account list class
  *
  **********************************************************************/

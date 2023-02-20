@@ -1,9 +1,7 @@
 /*********************************************************
  *
- *     OOP, Homework #2, Date Class 
- *     Borce Gjorgjievski
+ *     Bruce Gjorgjievski
  *     file: date.cc
- *     Modified: Sept 21, 2002
  *     Desc: Date managing class implementation
  *
  *********************************************************/
