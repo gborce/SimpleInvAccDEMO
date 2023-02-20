@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW10 Investment List & InvFactory Class
+ *  Bruce Gjorgjievski
  *  file: invlist.cc
- *  Modified:  Dec 4, 2002
  *  Desc: Implementation for the investment list & InvFactory class
  *
  **********************************************************************/
