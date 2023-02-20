@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW9, Investment Abstract Class
+ *  Bruce Gjorgjievski
  *  file: investment.h
- *  Modified: Nov 24, 2002
  *  Desc: Definitions for the investment class
  *
  **********************************************************************/
