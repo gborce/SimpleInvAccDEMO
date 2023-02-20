@@ -1,6 +1,6 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski
+ *  Bruce Gjorgjievski
  *  file: optfactory.cc
  *  Desc: Creates different options on request
  *
