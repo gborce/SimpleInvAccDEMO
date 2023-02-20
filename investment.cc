@@ -1,8 +1,7 @@
 /**********************************************************************
  *
- *  Borce Gjorgjievski, HW9, Adding edit functions
+ *  Bruce Gjorgjievski
  *  file: investment.cc
- *  Modified:  Nov 24, 2002
  *  Desc: Implementation for the investment class
  *
  **********************************************************************/
